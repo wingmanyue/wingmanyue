@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Contributions to projects...
+- Job Seeking Website made with HTML/CSS/Javascript
+  https://github.com/jw4522/SEHH2279-Group-Project
+
 <!--
 **wingmanyue/wingmanyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
